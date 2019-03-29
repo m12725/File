@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">File</string>
+    <string name="fileName">TextView</string>
+</resources>
